@@ -11,5 +11,8 @@ public class VariablesTypes {
 
         //1.1 constante
         final double PI_VALUE = 3.14;
+
+        //1.2 classe string
+        String myName = "Gustavo Santana";
     }
 }
